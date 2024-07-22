@@ -11,14 +11,33 @@
 School of Computer Science and Technology, Harbin Institute of Technology, Shenzhen<br>
 *Equal contribution
 †Corresponding author
+
+[![arXiv](https://img.shields.io/badge/arXiv-2407.14439-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2407.14439) 
+
 </div>
 
 ## Updates
-- [07/2024]
+- [07/2024] [Arxiv paper](https://arxiv.org/abs/2407.14439) released.
 
 ## :fire: The codes will be released soon
+
+<div align="center">
+<img src='./assets/architecture.png' width='100%'>
+</div>
 
 
 ## Citation
 
 If you find this work useful for your research, please kindly cite our paper:
+
+```
+@misc{zhang2024token,
+      title={Token-level Correlation-guided Compression for Efficient Multimodal Document Understanding}, 
+      author={Renshan Zhang, Yibo Lyu, Rui Shao, Gongwei Chen, Weili Guan and Liqiang Nie},
+      year={2024},
+      eprint={2407.14439},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2407.14439}, 
+}
+```
